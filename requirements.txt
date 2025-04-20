@@ -1,0 +1,6 @@
+# No external dependencies beyond standard Python libraries
+# The application uses:
+# - tkinter (included in standard Python)
+# - os (standard)
+# - shutil (standard)
+# - difflib (standard) 
