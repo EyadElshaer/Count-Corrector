@@ -1,4 +1,4 @@
-# Count Corrector
+# Count Corrector (Under Development)
 
 A Windows application that helps you identify and merge similar folders and files, reducing clutter and ensuring accurate file counts.
 
