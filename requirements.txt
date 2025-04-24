@@ -1,6 +1,5 @@
-# No external dependencies beyond standard Python libraries
-# The application uses:
-# - tkinter (included in standard Python)
-# - os (standard)
-# - shutil (standard)
-# - difflib (standard) 
+# Count Corrector - Requirements
+# Python 3.6 or higher required
+
+tkinter>=8.6           # GUI library (included in standard Python)
+watchdog>=2.1.6        # For file system monitoring 
